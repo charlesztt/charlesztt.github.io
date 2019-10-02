@@ -1,2 +1,1 @@
-# charlesztt.github.io
-Personal Website
+# Personal Website
