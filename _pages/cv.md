@@ -11,22 +11,18 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Computer Science, Rensselaer Polytechnic Institute, 2019
+* M.S. in Electrical Engineering, Columbia University, 2012
+* B.S. in Applied Physics, Donghua University, 2010
+* B.A. in German, Shanghai International Studies University, 2010
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Research Scientist, Siemens Corporate Technology, Sept 2019 - Present
+* Research Assistant, Rensselaer Polytechnic Institute, Jan 2014 - May 2019
+* Algorithm Engineer Intern, Didi Research Lab, May 2016 - Aug 2016
+* Research Intern, IBM Watson, May 2015 - July 2015
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
 * Skill 1
@@ -56,4 +52,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Reviewers for (searching mailboxes)
