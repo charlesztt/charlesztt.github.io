@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Tongtao Zhang"
 title_separator          : "-"
-name                     : &name "Tongtao Zhang"
-description              : &description "Research Scientist at Siemens Corporate Technology"
+name                     : &name ""
+description              : &description ""
 url                      : https://www.prinzkarl.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "charlesztt.github.io"
@@ -32,7 +32,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
+  branch                 : "master" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Tongtao Zhang"
   avatar           : "TongtaoZhang.png"
-  bio              : 
-  location         : "エレボニア帝国 緋の帝都ヘイムダル"
+  bio              : "Fan of Kiseki Series, Follower of Shirakami Fubuki"
+  location         : "エレボニア帝国"
   employer         : "鉄道憲兵隊"
   pubmed           : 
   googlescholar    : 
