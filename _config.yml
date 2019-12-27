@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Tongtao Zhang"
   avatar           : "TongtaoZhang.png"
-  bio              : "Research Scientist at Siemens Corporate Technology, Fan of Kiseki Series, Follower of Shirakami Fubuki"
-  location         : ""
-  employer         :
+  bio              : 
+  location         : "エレボニア帝国 緋の帝都ヘイムダル"
+  employer         : "鉄道憲兵隊"
   pubmed           : 
   googlescholar    : 
   email            :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "charlesztt"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
