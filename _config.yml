@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Tongtao Zhang"
 title_separator          : "-"
-name                     : &name ""
+name                     : &name "Tongtao Zhang 张彤韬"
 description              : &description ""
 url                      : https://www.prinzkarl.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
